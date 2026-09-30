@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://endless-highway-drive.naveen6802.chatgpt.site/sitemap.xml
